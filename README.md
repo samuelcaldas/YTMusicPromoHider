@@ -29,4 +29,4 @@ This extension was created by Samuel Caldas using Bing's chat mode.
 
 ## License
 
-This extension is licensed under the MIT License. See the LICENSE for more details.
+This extension is licensed under the MIT License. See the [LICENSE](LICENSE) for more details.
