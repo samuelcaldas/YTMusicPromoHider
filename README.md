@@ -16,7 +16,7 @@ Once you have installed the extension, you can open any YouTube Music web page a
 - Runs in the background and automatically hides the promo banner whenever it appears
 - Simple and lightweight, does not affect the performance or functionality of the web player
 
-## Screenshots
+## Screenshots (TODO)
 
 Here are some screenshots of the extension in action:
 
@@ -25,7 +25,7 @@ Here are some screenshots of the extension in action:
 
 ## Credits
 
-This extension was created by [your name] using Bing's chat mode. Bing is a chatbot that can help you with various tasks, such as generating code, poems, stories, essays, songs, and more. You can chat with Bing here.
+This extension was created by Samuel Caldas using Bing's chat mode.
 
 ## License
 
