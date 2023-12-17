@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube Music Promo Hider",
+    "version": "1.0",
+    "description": "This extension hides the YouTube Music premium promo banner on the web player.",
+    "permissions": ["activeTab", "scripting"],
+    "content_scripts": [
+      {
+        "matches": ["https://music.youtube.com/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
